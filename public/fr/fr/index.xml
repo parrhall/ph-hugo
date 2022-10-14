@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accueil on salle d&#39;parr - un cahier projet ouvert</title>
+    <link>http://parrhall.com/fr/fr/</link>
+    <description>Recent content in accueil on salle d&#39;parr - un cahier projet ouvert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 18:36:49 -0500</lastBuildDate><atom:link href="http://parrhall.com/fr/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bureaux sur Pi</title>
+      <link>http://parrhall.com/fr/fr/postes/pi-desktops/</link>
+      <pubDate>Fri, 14 Oct 2022 12:57:57 -0500</pubDate>
+      
+      <guid>http://parrhall.com/fr/fr/postes/pi-desktops/</guid>
+      <description>L&amp;rsquo;environnement graphique d&amp;rsquo;un système Linux est généralement appelé le bureau, et il n&amp;rsquo;est pas obligatoire pour un système Linux d&amp;rsquo;en avoir un. La plupart des serveurs Linux n&amp;rsquo;utilisent pas le bureau, en fait ; l&amp;rsquo;interaction standard avec le serveur se fait par l&amp;rsquo;intermédiaire de l&amp;rsquo;interface de ligne de commande, soit par le shell de la console, soit par un émulateur de terminal. Dans les systèmes eLinux, le bureau est souvent une réflexion après coup, ou orienté vers un système mobile, qui utilise un écran tactile comme périphérique d&amp;rsquo;entrée principal.</description>
+    </item>
+    
+    <item>
+      <title>Comment lire ce site</title>
+      <link>http://parrhall.com/fr/fr/postes/how-to-read-this-site/</link>
+      <pubDate>Fri, 14 Oct 2022 12:27:43 -0500</pubDate>
+      
+      <guid>http://parrhall.com/fr/fr/postes/how-to-read-this-site/</guid>
+      <description>Ce site est un cahier de projet ouvert. Il se compose de deux parties distinctes : un blog traditionnel (la partie que vous êtes en train de lire), et un site séparé ressemblant à une base de connaissances de documentation, kb.parrhall.com.
+L&amp;rsquo;objectif de ce site est d&amp;rsquo;être l&amp;rsquo;endroit où je documente et discute des différents projets sur lesquels je travaille. Ces projets sont principalement axés sur :
+La programmation des systèmes Linux : Développer contre l&amp;rsquo;API Linux en utilisant C, Rust et Go.</description>
+    </item>
+    
+  </channel>
+</rss>

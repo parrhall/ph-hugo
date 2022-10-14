@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on parr hall - an open project notebook</title>
+    <link>http://parrhall.com/categories/</link>
+    <description>Recent content in Categories on parr hall - an open project notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://parrhall.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

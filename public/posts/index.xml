@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on parr hall - an open project notebook</title>
+    <link>http://parrhall.com/posts/</link>
+    <description>Recent content in Posts on parr hall - an open project notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 20:41:44 -0500</lastBuildDate><atom:link href="http://parrhall.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktops in Raspberry Pi OS</title>
+      <link>http://parrhall.com/posts/pi-desktops/</link>
+      <pubDate>Tue, 11 Oct 2022 20:41:44 -0500</pubDate>
+      
+      <guid>http://parrhall.com/posts/pi-desktops/</guid>
+      <description>The graphical environment for a Linux system is typically called the desktop, and it is not a requirement for a Linux system to have one. Most Linux servers do not use the desktop, in fact; the standard interaction with the server is through the command line interface, either through the console shell or a terminal emulator. In eLinux systems, the desktop is often an afterthought, or oriented towards a mobile system, which uses a touchscreen as the primary peripheral input device.</description>
+    </item>
+    
+    <item>
+      <title>How to read this site</title>
+      <link>http://parrhall.com/posts/how-to-read-this-site/</link>
+      <pubDate>Mon, 10 Oct 2022 20:18:29 -0500</pubDate>
+      
+      <guid>http://parrhall.com/posts/how-to-read-this-site/</guid>
+      <description>This site is an open project notebook. It consists of two distinct parts; a traditional blog (the part you are currently reading), and a separate site resembling a documentation knowledge base, kb.parrhall.com.
+The goal of this site is to act as the place where I document and dicuss the various projects I am working on. These projects are primarily focused on:
+Linux systems programming: Developing against the Linux API using C, Rust and Go.</description>
+    </item>
+    
+  </channel>
+</rss>
