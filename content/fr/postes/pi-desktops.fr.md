@@ -3,7 +3,8 @@ title: "Bureaux sur Pi"
 date: 2022-10-14T12:57:57-05:00
 draft: false 
 translationKey: "pi desktops"
-category: elinux
+categories:
+- eLinux
 ---
 
 L'environnement graphique d'un système Linux est généralement appelé le _bureau_, et il n'est pas obligatoire pour un système Linux d'en avoir un. La plupart des serveurs Linux n'utilisent pas le bureau, en fait ; l'interaction standard avec le serveur se fait par l'intermédiaire de l'interface de ligne de commande, soit par le shell de la console, soit par un émulateur de terminal. Dans les systèmes eLinux, le bureau est souvent une réflexion après coup, ou orienté vers un système mobile, qui utilise un écran tactile comme périphérique d'entrée principal.

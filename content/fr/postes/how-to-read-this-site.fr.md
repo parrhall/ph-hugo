@@ -1,6 +1,6 @@
 ---
 title: "Comment lire ce site"
-date: 2022-10-14T12:27:43-05:00
+date: 2022-10-1T12:27:43-05:00
 draft: false
 category: faq
 translationKey: "how to read this site"

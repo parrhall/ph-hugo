@@ -10,7 +10,7 @@ googleAnalytics: ""
 languages:
   en:
     title: parr hall - an open project notebook
-    weight: 1
+    weight: 0 
     contentDir: content/en
   fr:
     title: salle d'parr - un cahier projet ouvert
